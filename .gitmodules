@@ -1,0 +1,3 @@
+[submodule "git-jiadong_wechatDataBackup"]
+	path = git-jiadong_wechatDataBackup
+	url = https://git.jifuyun.cn/cyonjan/wechatDataBackup.git

@@ -1,0 +1,11 @@
+*.pyc
+*.sql
+output/
+resource
+*.db
+*.db.decoded
+*2015*
+*2017*
+2020*
+avatar.index
+emoji.cache
